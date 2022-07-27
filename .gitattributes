@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 *.py linguist-detectable=true
+*.tcl linguist-detectable=false
+*.tm linguist-detectable=false
+
