@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
+*.py linguist-language=Solidity
 *.tcl  linguist-detectable=false
